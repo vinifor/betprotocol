@@ -6,11 +6,11 @@
       "city":"London",
       "students":[
         {
-          "id":1
+          "id":1,
           "name":"Lester"
         },
         {
-          "id":2
+          "id":2,
           "name":"Phil"
         }
       ]
