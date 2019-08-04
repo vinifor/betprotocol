@@ -1,1 +1,14 @@
-
+[
+  {
+    "name":"Jonh Isaac",
+    "city":"London",
+    "students":[
+      {
+        "name":"Lester"
+      },
+      {
+        "name":"Phil"
+      }
+    ]
+  }
+]
